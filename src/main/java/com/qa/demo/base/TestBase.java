@@ -6,5 +6,15 @@ public class TestBase {
 		
 		System.out.println("Test Base");
 	}
+	
+	
+		
+		public static void test() {
+			
+			System.out.println("Hello World");
+		}
 
-}
+	}
+
+
+
